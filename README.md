@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **tkartikey92@gmail.com**
 
-- ⚡ Fun fact **I am still exploring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
