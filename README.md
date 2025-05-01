@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey Tyagi</h1>
 <h3 align="center">Developer by day, DSA grinder by night</h3>
 
-- 🔭 I’m currently working on **projects with T3 stack**
+- 🔭 I code when I am bored
 
 - 💬 Ask me about **anything other than programming**
 
