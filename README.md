@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey Tyagi</h1>
 <h3 align="center">Whatever is happening here is out of my control</h3>
 
-- 🔭 I code when I am bored
+- 🔭 I code just to look cool
 
 - 💬 Ask me about **anything other than programming**
 
