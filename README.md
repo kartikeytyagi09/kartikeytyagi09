@@ -3,8 +3,6 @@
 
 - 🔭 I code just to look cool
 
-- 💬 Ask me about **anything other than programming**
-
 - 📫 How to reach me **tkartikey92@gmail.com**
 
 
