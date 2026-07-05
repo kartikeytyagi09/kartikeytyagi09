@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
 <h3 align="center">I like to build backends and play with full stack applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikeytyagi09" alt="kartikeytyagi09" /></a> </p>
 
 - 🔭 I’m currently working on **on building scalable softwares**
 
