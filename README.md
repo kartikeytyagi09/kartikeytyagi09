@@ -3,7 +3,8 @@
 <h3 align="center">I like to build backends and play with full stack applications</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on on building scalable softwares<br><br>- 💬 Ask me about why market are ATH<br><br>- 📫 How to reach me tkartikey92@gmail.com<br><br>- ⚡ Fun fact I can code without caffeine
+- 🔭 I’m currently working on building scalable softwares<br><br> -💬 Ask me about why market are at ATH <br><br> -📫 How to reach me - tkartikey92@gmail.com
+-⚡ Fun fact I can code without caffeine
 
 
 ## 🌐 Socials:
